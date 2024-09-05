@@ -1,0 +1,9 @@
+.err-msg {
+  color: red;
+}
+.form-container {
+  padding: 24px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: black;
+}
